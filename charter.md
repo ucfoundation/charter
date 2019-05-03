@@ -13,17 +13,17 @@ This charter (the “Charter”) sets forth the responsibilities and procedures 
 - (a) The role of the Technical Advisory Council ("TAC") is to facilitate communication and collaboration among the technical open source, standards and/or specification projects in the area of urban computing (each such a "Technical Project").  Technical governance, including provisions concerning intellectual property policy, will be as set forth in the governance documents for each such Technical Project.
 
 - (b) The TAC will be responsible for:
-    - (i) accepting and approving open source, standards and/or specification projects as Technical Projects;
+    - (i) accepting and approving open source, open data, or open standards and/or specification projects as Technical Projects;
     - (ii) coordinating collaboration among Technical Projects, including development of an overall technical vision for the community;
     - (iii) creating, maintaining and amending project lifecycle procedures and processes;
-    - (iv) creating sub-committees or working groups to focus on cross-project technical issues and requirements;
+    - (iv) creating sub-committees or working groups (e.g. policy working group)  to focus on cross-project technical issues and requirements;
     - (v) discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; 
     - (vi) coordinating any marketing, events, or communications regarding the Project with the LF Projects Manager or their designee;
     - (vii) appointing representatives to work with other open source or open standards communities; and
     - (viii) electing annually a chairperson to preside over meetings.
 
 - (c) The voting members of the TAC consist of those individuals listed on the Urban Computing Foundation web site as voting members of the Urban Computing Foundation web site. The TAC may establish processes and requirements for the addition or removal of TAC voting members.
-- (d) TAC meetings are intended to be open to the public. Decisions will be made by consensus where possible, and by simple majority vote where required. Ideally decisions will be made based on consensus. If, however, any decision requires a vote to move forward, the each representatives of the Governing Board or Committee, as applicable, will vote on a one vote per voting representative basis.
+- (d) TAC meetings are intended to be open to the public. Decisions will be made by consensus where possible, and by simple majority vote where required. Ideally decisions will be made based on consensus. If, however, any decision requires a vote to move forward, then each representatives of the Governing Board or Committee, as applicable, will vote on a one vote per voting representative basis.
 
 #### 3. TAC Voting ####
 - (a) While the Project aims to operate as a consensus-based community, if any TAC decision requires a vote to move the Project forward, the voting members of the TAC will vote on a one vote per voting member basis.
