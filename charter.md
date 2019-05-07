@@ -1,6 +1,6 @@
 **Technical Charter (the “Charter”) for Urban Computing Foundation a Series of LF Projects, LLC** 
 
-*Adopted Mar 11 2019*
+*Adopted April 30 2019*
 
 This charter (the “Charter”) sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Urban Computing Foundation, which has been established as Urban Computing Foundation a Series of LF Projects, LLC (the “Project”).  LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All Contributors to the Project must comply with the terms of this Charter. 
 
@@ -13,17 +13,17 @@ This charter (the “Charter”) sets forth the responsibilities and procedures 
 - (a) The role of the Technical Advisory Council ("TAC") is to facilitate communication and collaboration among the technical open source, standards and/or specification projects in the area of urban computing (each such a "Technical Project").  Technical governance, including provisions concerning intellectual property policy, will be as set forth in the governance documents for each such Technical Project.
 
 - (b) The TAC will be responsible for:
-    - (i) accepting and approving open source, open data, or open standards and/or specification projects as Technical Projects;
+    - (i) accepting and approving open source, open data, or open specification projects as Technical Projects;
     - (ii) coordinating collaboration among Technical Projects, including development of an overall technical vision for the community;
     - (iii) creating, maintaining and amending project lifecycle procedures and processes;
-    - (iv) creating sub-committees or working groups (e.g. policy working group)  to focus on cross-project technical issues and requirements;
+    - (iv) creating sub-committees or working groups (e.g. policy working group) to focus on cross-project technical issues and requirements;
     - (v) discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; 
     - (vi) coordinating any marketing, events, or communications regarding the Project with the LF Projects Manager or their designee;
     - (vii) appointing representatives to work with other open source or open standards communities; and
     - (viii) electing annually a chairperson to preside over meetings.
 
 - (c) The voting members of the TAC consist of those individuals listed on the Urban Computing Foundation web site as voting members of the Urban Computing Foundation web site. The TAC may establish processes and requirements for the addition or removal of TAC voting members.
-- (d) TAC meetings are intended to be open to the public. Decisions will be made by consensus where possible, and by simple majority vote where required. Ideally decisions will be made based on consensus. If, however, any decision requires a vote to move forward, then each representatives of the Governing Board or Committee, as applicable, will vote on a one vote per voting representative basis.
+- (d) TAC meetings are intended to be open to the public. Decisions will be made by consensus where possible, and by simple majority vote where required. Ideally decisions will be made based on consensus. If, however, any decision requires a vote to move forward, then each representative of the Governing Board or Committee, as applicable, will vote on a one vote per voting representative basis.
 
 #### 3. TAC Voting ####
 - (a) While the Project aims to operate as a consensus-based community, if any TAC decision requires a vote to move the Project forward, the voting members of the TAC will vote on a one vote per voting member basis.
@@ -64,7 +64,7 @@ This charter (the “Charter”) sets forth the responsibilities and procedures 
     - (ii) All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TAC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
     - (iii) All outbound code will be made available under the Project License.
     - (iv) Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/). 
-    - (v) To the extent a contribution includes or consists of data, any rights in such data shall be made available under the CDLA-Permissive 1.0 License (available at http://cdla.io).
+    - (v) To the extent a contribution includes or consists of data, any rights in such data will be made available under the CDLA-Permissive 1.0 License (available at http://cdla.io).
     - (vi) The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project.  Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 
 - (c) The TAC may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire TAC. 
