@@ -2,29 +2,31 @@ The Urban Computing Foundation Fund​ ​Charter v1.0
 
 The Linux Foundation
 
-Effective July 11, 2019
+Effective July 11, 2019 / Amended January 14, 2021
 
 ### 1) Mission and Scope of the Urban Computing Foundation Fund.
- - a) The purpose of the Urban Computing Foundation Fund (the “Directed Fund”) is to raise, budget and spend funds in support of the Urban Computing Foundation a Series of LF Projects, LLC (the “Technical Project”), in accordance with the provisions of this Charter. The governance of the Technical Project is as set forth in the charter for the Technical Project.
- - b) The Directed Fund supports the Technical Project. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.
- - c) The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board. These committees report to the Governing Board.
+ - a) The purpose of the Urban Computing Foundation Fund (the “Directed Fund”) is to raise, budget and spend funds in support of the Urban Computing Foundation a Series of LF Projects, LLC (the “Technical Project”), in accordance with the provisions of this Charter.  The governance of the Technical Project is as set forth in the charter for the Technical Project.
+ - b) The Directed Fund supports the Technical Project. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.  
+ - c) The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.
  
 ### 2) Membership.
- - a) The Directed Fund will be composed of Premier and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.
+ - a) The Directed Fund will be composed of Premier, General and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.
  - b) Subject to Section 3, Premier Members will be entitled to appoint a representative to the Governing Board and any Committee.
- - c) The Associate Member category of membership is limited to Associate Members of The Linux Foundation. The Governing Board may set additional criteria for joining the Directed Fund as an Associate Member. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member.
- - d) Members will be entitled to:
+ - c) General Members, acting as a class, will be entitled to annually elect one representative to the Governing Board for every ten General Members, up to a maximum of three representatives, provided that there will always be at least one General Member representative, even if there are less than ten General Members. The Governing Board determines the election process.
+ - d) The Associate Member category of membership is limited to Associate Members of The Linux Foundation. The Governing Board may set additional criteria for joining the Directed Fund as an Associate Member. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member. 
+ - e) Members will be entitled to:
   - i) participate in Directed Fund general meetings, initiatives, events and any other activities; and
   - ii) identify themselves as members of the Urban Computing Foundation Fund supporting the Urban Computing Foundation community.
 
 ### 3) Governing Board
  - a) The Governing Board voting members will consist of:
   - i) For the first six months, one representative appointed by each of the founding Premier Members to sign a Participation Agreement, and after six months, one representative appointed by each Premier Member; and
-  - ii) the chair of the technical steering committee of the Technical Advisory Council of the Technical Project (the “TAC”), or, in the absence of a chair and with the approval of the Governing Board, any active contributor to the Technical Project so designated by the TAC (such chair or designee the “TAC Representative”).
- - b) Only one Member that is part of a group of Related Companies (as defined in Section 6) may appoint a representative on the Governing Board. No single Member, company or set of Related Companies will be entitled to have more than two representatives on the Governing Board.
-  - i) Please note that it will be acceptable for one Member to appoint a representative to the Governing Board and have another of its employees, or an employee of one of its Related Companies, serve as the TAC Representative on the Governing Board.
+  - ii) the elected General Member representative or representatives; and
+  - iii) the chair of the technical steering committee of the Technical Advisory Council of the Technical Project (the “TAC”), or, in the absence of a chair and with the approval of the Governing Board, any active contributor to the Technical Project so designated by the TAC (such chair or designee the “TAC Representative”).
+ - b) Only one Member that is part of a group of Related Companies (as defined in Section 6) may appoint, or nominate for a membership class election, a representative on the Governing Board.  No single Member, company or set of Related Companies will be entitled to: (i) appoint or nominate for Membership class election more than one representative for the Governing Board, or (ii) have more than two representatives on the Governing Board.
+  - i) Please note that it will be acceptable for one Member to appoint or nominate a representative to the Governing Board and have another of its employees, or an employee of one of its Related Companies, serve as the TAC Representative on the Governing Board.
  - c) Conduct of Meetings
-  - i) Governing Board meetings will be limited to the Governing Board representatives, the Outreach Committee Chair, invited guests and LF staff.
+  - i) Governing Board meetings will be limited to the Governing Board representatives, the Outreach Committee Chair, invited guests and LF staff. 
   - ii) Governing Board meetings follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow named representatives (one per Member per Governing Board and per Committee) to attend as an alternate.
   - iii) The Governing Board meetings will be private unless decided otherwise by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board).
  - d) Officers
@@ -36,14 +38,14 @@ Effective July 11, 2019
   - ii) nominate and elect Officers of the Directed Fund;
   - iii) oversee all Directed Fund business and community outreach matters and work with the LF on any legal matters that arise;
   - iv) adopt and maintain policies or rules and procedures for the Directed Fund (subject to LF approval);
-  - v) establish advisory bodies, committees, programs or councils to resolve any particular matter or in support of the mission of the Directed Fund and/or Technical Project;
-  - vi) establish any conformance programs and solicit input (including testing tools) from the TAC for defining and administering any programs related to conformance with the Technical Project (each, a “Conformance Program”);
-  - vii) publish use cases, user stories, websites and priorities to help inform the ecosystem and technical community;
-  - viii) approve procedures for the nomination and election of any Officer or other positions created by the Governing Board; and
+  - v) establish advisory bodies, committees, programs or councils to resolve any particular matter or in support of the mission of the Directed Fund and/or  Technical Project;
+  - vi) establish any conformance programs and solicit input (including testing tools) from the TAC for defining and administering any programs related to conformance with the Technical Project (each, a “Conformance Program”); 
+  - vii) publish use cases, user stories, websites and priorities to help inform the ecosystem and technical community; 
+  - viii) approve procedures for the nomination and election of any representative of the General Members to the Governing Board and any Officer or other positions created by the Governing Board; and
   - ix) vote on all decisions or matters coming before the Governing Board.
 
 ### 4) Outreach Committee
- - a) The Outreach Committee will include one appointed voting representative from each Premier Member.
+ - a) The Outreach Committee will include one appointed voting representative from each Premier Member. Each General Member may appoint a non-voting representative to observe and contribute ideas to the Outreach Committee.
  - b) The Outreach Committee will be responsible for the design, development and execution of community outreach efforts on behalf of the Governing Board. The Outreach Committee is expected to coordinate closely with the Governing Board and technical communities to maximize the outreach and visibility of the Technical Project throughout the industry.
  - c) The Governing Board may appoint a chairperson of the Outreach Committee or delegate responsibility for selecting a chairperson to the Outreach Committee. The Outreach Committee chairperson will be responsible for reporting progress back to the Governing Board. The Outreach Committee chairperson may attend meetings of the Governing Board, but, unless the Outreach Committee chairperson is a member of the Governing Board, the Outreach Committee chairperson will not attend as a voting member of the Governing Board.
 
